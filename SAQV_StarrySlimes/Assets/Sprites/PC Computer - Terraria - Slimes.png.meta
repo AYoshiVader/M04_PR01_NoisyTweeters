@@ -1,0 +1,555 @@
+fileFormatVersion: 2
+guid: 8948b812bd613cd49b4b2480729feafe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Slimes_218
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 373
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae677366b6e0549beaa2cdc806bace
+      internalID: -881674284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Slimes_239
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 347
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5154be7f71dd152468633bc36f510580
+      internalID: -1229083298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Terraria - Slimes_0: 2032968834
+      PC Computer - Terraria - Slimes_1: -1227346045
+      PC Computer - Terraria - Slimes_10: -627788774
+      PC Computer - Terraria - Slimes_100: 148639626
+      PC Computer - Terraria - Slimes_101: -1656898359
+      PC Computer - Terraria - Slimes_102: 295448164
+      PC Computer - Terraria - Slimes_103: -404867860
+      PC Computer - Terraria - Slimes_104: -1784025501
+      PC Computer - Terraria - Slimes_105: -2089779555
+      PC Computer - Terraria - Slimes_106: -404155817
+      PC Computer - Terraria - Slimes_107: 234562788
+      PC Computer - Terraria - Slimes_108: 22836497
+      PC Computer - Terraria - Slimes_109: 1172606984
+      PC Computer - Terraria - Slimes_11: -1307171175
+      PC Computer - Terraria - Slimes_110: -1708072366
+      PC Computer - Terraria - Slimes_111: -319184011
+      PC Computer - Terraria - Slimes_112: -97143452
+      PC Computer - Terraria - Slimes_113: 2098054032
+      PC Computer - Terraria - Slimes_114: -937770721
+      PC Computer - Terraria - Slimes_115: 433941268
+      PC Computer - Terraria - Slimes_116: 876430633
+      PC Computer - Terraria - Slimes_117: -1283239505
+      PC Computer - Terraria - Slimes_118: -296301768
+      PC Computer - Terraria - Slimes_119: -2100165251
+      PC Computer - Terraria - Slimes_12: 881505058
+      PC Computer - Terraria - Slimes_120: 1673016295
+      PC Computer - Terraria - Slimes_121: 750180175
+      PC Computer - Terraria - Slimes_122: 102828437
+      PC Computer - Terraria - Slimes_123: -172081711
+      PC Computer - Terraria - Slimes_124: -562335853
+      PC Computer - Terraria - Slimes_125: 1889017487
+      PC Computer - Terraria - Slimes_126: -1768763572
+      PC Computer - Terraria - Slimes_127: 367330053
+      PC Computer - Terraria - Slimes_128: -1838742324
+      PC Computer - Terraria - Slimes_129: -1242678265
+      PC Computer - Terraria - Slimes_13: -1238740181
+      PC Computer - Terraria - Slimes_130: 1118235493
+      PC Computer - Terraria - Slimes_131: -1685554594
+      PC Computer - Terraria - Slimes_132: 276937936
+      PC Computer - Terraria - Slimes_133: -1083932497
+      PC Computer - Terraria - Slimes_134: 842665686
+      PC Computer - Terraria - Slimes_135: -100566327
+      PC Computer - Terraria - Slimes_136: -1106786846
+      PC Computer - Terraria - Slimes_137: -966476331
+      PC Computer - Terraria - Slimes_138: -211605500
+      PC Computer - Terraria - Slimes_139: 602480537
+      PC Computer - Terraria - Slimes_14: -2061497866
+      PC Computer - Terraria - Slimes_140: 126705783
+      PC Computer - Terraria - Slimes_141: 1403124745
+      PC Computer - Terraria - Slimes_142: -1444821903
+      PC Computer - Terraria - Slimes_143: -1104711441
+      PC Computer - Terraria - Slimes_144: 1110510219
+      PC Computer - Terraria - Slimes_145: 432659796
+      PC Computer - Terraria - Slimes_146: -1881192862
+      PC Computer - Terraria - Slimes_147: 1817668667
+      PC Computer - Terraria - Slimes_148: -1498707862
+      PC Computer - Terraria - Slimes_149: 347423388
+      PC Computer - Terraria - Slimes_15: 769807190
+      PC Computer - Terraria - Slimes_150: -1453012705
+      PC Computer - Terraria - Slimes_151: -611629001
+      PC Computer - Terraria - Slimes_152: -1341086392
+      PC Computer - Terraria - Slimes_153: 779211774
+      PC Computer - Terraria - Slimes_154: 503196856
+      PC Computer - Terraria - Slimes_155: -313721044
+      PC Computer - Terraria - Slimes_156: -1103375488
+      PC Computer - Terraria - Slimes_157: -845735724
+      PC Computer - Terraria - Slimes_158: -575027766
+      PC Computer - Terraria - Slimes_159: 1523249931
+      PC Computer - Terraria - Slimes_16: -1497889451
+      PC Computer - Terraria - Slimes_160: 1657357983
+      PC Computer - Terraria - Slimes_161: 711838745
+      PC Computer - Terraria - Slimes_162: 461990401
+      PC Computer - Terraria - Slimes_163: -1232700353
+      PC Computer - Terraria - Slimes_164: -370986324
+      PC Computer - Terraria - Slimes_165: -489812227
+      PC Computer - Terraria - Slimes_166: -362520572
+      PC Computer - Terraria - Slimes_167: -980247143
+      PC Computer - Terraria - Slimes_168: -239420052
+      PC Computer - Terraria - Slimes_169: 1546856415
+      PC Computer - Terraria - Slimes_17: -2419897
+      PC Computer - Terraria - Slimes_170: -1936488617
+      PC Computer - Terraria - Slimes_171: 1973171605
+      PC Computer - Terraria - Slimes_172: 1830399497
+      PC Computer - Terraria - Slimes_173: 1105599448
+      PC Computer - Terraria - Slimes_174: -1957945736
+      PC Computer - Terraria - Slimes_175: -180409146
+      PC Computer - Terraria - Slimes_176: 631562743
+      PC Computer - Terraria - Slimes_177: -566453959
+      PC Computer - Terraria - Slimes_178: 1957804681
+      PC Computer - Terraria - Slimes_179: -455476279
+      PC Computer - Terraria - Slimes_18: 1299282240
+      PC Computer - Terraria - Slimes_180: -1409754398
+      PC Computer - Terraria - Slimes_181: 875113755
+      PC Computer - Terraria - Slimes_182: 1204747453
+      PC Computer - Terraria - Slimes_183: 803194701
+      PC Computer - Terraria - Slimes_184: 331845214
+      PC Computer - Terraria - Slimes_185: 1766009530
+      PC Computer - Terraria - Slimes_186: -1733435395
+      PC Computer - Terraria - Slimes_187: -2115683745
+      PC Computer - Terraria - Slimes_188: 1879701349
+      PC Computer - Terraria - Slimes_189: 1780739896
+      PC Computer - Terraria - Slimes_19: -686673514
+      PC Computer - Terraria - Slimes_190: -446456403
+      PC Computer - Terraria - Slimes_191: 278770198
+      PC Computer - Terraria - Slimes_192: 1737700623
+      PC Computer - Terraria - Slimes_193: 1103886894
+      PC Computer - Terraria - Slimes_194: 1690270186
+      PC Computer - Terraria - Slimes_195: -1483896630
+      PC Computer - Terraria - Slimes_196: -665538696
+      PC Computer - Terraria - Slimes_197: 853522720
+      PC Computer - Terraria - Slimes_198: -1968791098
+      PC Computer - Terraria - Slimes_199: 1980006043
+      PC Computer - Terraria - Slimes_2: 462537871
+      PC Computer - Terraria - Slimes_20: -1680290160
+      PC Computer - Terraria - Slimes_200: -607537926
+      PC Computer - Terraria - Slimes_201: 1557348893
+      PC Computer - Terraria - Slimes_202: -1553422274
+      PC Computer - Terraria - Slimes_203: -1761527339
+      PC Computer - Terraria - Slimes_204: -312952558
+      PC Computer - Terraria - Slimes_205: -1266249775
+      PC Computer - Terraria - Slimes_206: -1663819172
+      PC Computer - Terraria - Slimes_207: 146279907
+      PC Computer - Terraria - Slimes_208: 523111343
+      PC Computer - Terraria - Slimes_209: 1064561304
+      PC Computer - Terraria - Slimes_21: 105321463
+      PC Computer - Terraria - Slimes_210: 715553643
+      PC Computer - Terraria - Slimes_211: 801116470
+      PC Computer - Terraria - Slimes_212: -922864832
+      PC Computer - Terraria - Slimes_213: 1378662869
+      PC Computer - Terraria - Slimes_214: 1746305308
+      PC Computer - Terraria - Slimes_215: -2038509868
+      PC Computer - Terraria - Slimes_216: -1081570110
+      PC Computer - Terraria - Slimes_217: 151535060
+      PC Computer - Terraria - Slimes_218: -881674284
+      PC Computer - Terraria - Slimes_219: 769528703
+      PC Computer - Terraria - Slimes_22: -1181140957
+      PC Computer - Terraria - Slimes_220: 661563614
+      PC Computer - Terraria - Slimes_221: -2020811274
+      PC Computer - Terraria - Slimes_222: -85285254
+      PC Computer - Terraria - Slimes_223: -1089888521
+      PC Computer - Terraria - Slimes_224: 1412371695
+      PC Computer - Terraria - Slimes_225: 528782276
+      PC Computer - Terraria - Slimes_226: 1921552052
+      PC Computer - Terraria - Slimes_227: 1934854265
+      PC Computer - Terraria - Slimes_228: -1085367956
+      PC Computer - Terraria - Slimes_229: -834769145
+      PC Computer - Terraria - Slimes_23: -1827879794
+      PC Computer - Terraria - Slimes_230: 1616289061
+      PC Computer - Terraria - Slimes_231: -1579764671
+      PC Computer - Terraria - Slimes_232: -300551425
+      PC Computer - Terraria - Slimes_233: -1415116893
+      PC Computer - Terraria - Slimes_234: -288922195
+      PC Computer - Terraria - Slimes_235: -599558845
+      PC Computer - Terraria - Slimes_236: 243296208
+      PC Computer - Terraria - Slimes_237: 233171717
+      PC Computer - Terraria - Slimes_238: 1087715697
+      PC Computer - Terraria - Slimes_239: -1229083298
+      PC Computer - Terraria - Slimes_24: 2047057521
+      PC Computer - Terraria - Slimes_240: -1299424234
+      PC Computer - Terraria - Slimes_241: -1504451090
+      PC Computer - Terraria - Slimes_242: -1654505126
+      PC Computer - Terraria - Slimes_243: 76892795
+      PC Computer - Terraria - Slimes_244: 350138130
+      PC Computer - Terraria - Slimes_245: 657066740
+      PC Computer - Terraria - Slimes_246: 1874857885
+      PC Computer - Terraria - Slimes_247: 1657788669
+      PC Computer - Terraria - Slimes_248: 184211641
+      PC Computer - Terraria - Slimes_249: 1631543152
+      PC Computer - Terraria - Slimes_25: -1092489037
+      PC Computer - Terraria - Slimes_250: -1579860297
+      PC Computer - Terraria - Slimes_251: 351159339
+      PC Computer - Terraria - Slimes_252: -305575821
+      PC Computer - Terraria - Slimes_253: 1124178862
+      PC Computer - Terraria - Slimes_254: 2138665241
+      PC Computer - Terraria - Slimes_255: -306041091
+      PC Computer - Terraria - Slimes_256: -1561960541
+      PC Computer - Terraria - Slimes_257: 2014557616
+      PC Computer - Terraria - Slimes_258: 865907850
+      PC Computer - Terraria - Slimes_259: -957137320
+      PC Computer - Terraria - Slimes_26: 42564848
+      PC Computer - Terraria - Slimes_260: -57481695
+      PC Computer - Terraria - Slimes_261: 192350197
+      PC Computer - Terraria - Slimes_262: 708708632
+      PC Computer - Terraria - Slimes_263: 1093885947
+      PC Computer - Terraria - Slimes_264: 177689086
+      PC Computer - Terraria - Slimes_265: 845911378
+      PC Computer - Terraria - Slimes_266: 75861240
+      PC Computer - Terraria - Slimes_267: 740724136
+      PC Computer - Terraria - Slimes_268: 30819542
+      PC Computer - Terraria - Slimes_269: -1989748398
+      PC Computer - Terraria - Slimes_27: -2097437814
+      PC Computer - Terraria - Slimes_270: -1931753794
+      PC Computer - Terraria - Slimes_271: -1740851036
+      PC Computer - Terraria - Slimes_272: -704276889
+      PC Computer - Terraria - Slimes_273: -1485991725
+      PC Computer - Terraria - Slimes_274: 903531243
+      PC Computer - Terraria - Slimes_275: 127116410
+      PC Computer - Terraria - Slimes_276: 792976128
+      PC Computer - Terraria - Slimes_277: -1728940255
+      PC Computer - Terraria - Slimes_278: -1196966327
+      PC Computer - Terraria - Slimes_279: 1222206471
+      PC Computer - Terraria - Slimes_28: -2095676192
+      PC Computer - Terraria - Slimes_280: 1760565278
+      PC Computer - Terraria - Slimes_281: -1202706465
+      PC Computer - Terraria - Slimes_282: -608014084
+      PC Computer - Terraria - Slimes_283: 1009021218
+      PC Computer - Terraria - Slimes_284: 1751528947
+      PC Computer - Terraria - Slimes_285: -89729661
+      PC Computer - Terraria - Slimes_286: 1722687236
+      PC Computer - Terraria - Slimes_287: -27154076
+      PC Computer - Terraria - Slimes_288: -559789299
+      PC Computer - Terraria - Slimes_289: -31913152
+      PC Computer - Terraria - Slimes_29: -774387934
+      PC Computer - Terraria - Slimes_290: -1251082208
+      PC Computer - Terraria - Slimes_291: -1905021663
+      PC Computer - Terraria - Slimes_292: -580716962
+      PC Computer - Terraria - Slimes_293: 1749996169
+      PC Computer - Terraria - Slimes_294: -1733179451
+      PC Computer - Terraria - Slimes_295: 1424561456
+      PC Computer - Terraria - Slimes_296: -1203627967
+      PC Computer - Terraria - Slimes_297: -613198818
+      PC Computer - Terraria - Slimes_298: -756253871
+      PC Computer - Terraria - Slimes_299: 708499156
+      PC Computer - Terraria - Slimes_3: -1787358791
+      PC Computer - Terraria - Slimes_30: 555122417
+      PC Computer - Terraria - Slimes_300: 262644250
+      PC Computer - Terraria - Slimes_301: 1361407535
+      PC Computer - Terraria - Slimes_302: -29109548
+      PC Computer - Terraria - Slimes_303: -1672803850
+      PC Computer - Terraria - Slimes_304: -1073592141
+      PC Computer - Terraria - Slimes_305: 568495726
+      PC Computer - Terraria - Slimes_306: -303434562
+      PC Computer - Terraria - Slimes_307: 1288502652
+      PC Computer - Terraria - Slimes_308: 1087982037
+      PC Computer - Terraria - Slimes_309: -1028305089
+      PC Computer - Terraria - Slimes_31: 991033013
+      PC Computer - Terraria - Slimes_310: -610945221
+      PC Computer - Terraria - Slimes_311: 1033776046
+      PC Computer - Terraria - Slimes_312: 111558668
+      PC Computer - Terraria - Slimes_313: 1922009404
+      PC Computer - Terraria - Slimes_314: -791498252
+      PC Computer - Terraria - Slimes_315: 648193401
+      PC Computer - Terraria - Slimes_316: -571128001
+      PC Computer - Terraria - Slimes_317: 1408039295
+      PC Computer - Terraria - Slimes_318: -751645159
+      PC Computer - Terraria - Slimes_319: -1207881651
+      PC Computer - Terraria - Slimes_32: -1193503377
+      PC Computer - Terraria - Slimes_320: 2037261321
+      PC Computer - Terraria - Slimes_321: -2132973704
+      PC Computer - Terraria - Slimes_322: -1823175238
+      PC Computer - Terraria - Slimes_323: -930659378
+      PC Computer - Terraria - Slimes_324: -2031352244
+      PC Computer - Terraria - Slimes_325: -209290202
+      PC Computer - Terraria - Slimes_326: 1442504656
+      PC Computer - Terraria - Slimes_327: -383207690
+      PC Computer - Terraria - Slimes_328: 1924078098
+      PC Computer - Terraria - Slimes_329: 1770051256
+      PC Computer - Terraria - Slimes_33: -4110503
+      PC Computer - Terraria - Slimes_330: -1627629722
+      PC Computer - Terraria - Slimes_331: 1255240625
+      PC Computer - Terraria - Slimes_332: -1068343248
+      PC Computer - Terraria - Slimes_333: 167487815
+      PC Computer - Terraria - Slimes_334: -1800975387
+      PC Computer - Terraria - Slimes_335: -990728430
+      PC Computer - Terraria - Slimes_336: 386449325
+      PC Computer - Terraria - Slimes_337: -339176880
+      PC Computer - Terraria - Slimes_338: 274712198
+      PC Computer - Terraria - Slimes_339: 1224997710
+      PC Computer - Terraria - Slimes_34: 1539826442
+      PC Computer - Terraria - Slimes_340: 1869201707
+      PC Computer - Terraria - Slimes_341: -463281460
+      PC Computer - Terraria - Slimes_342: 166228647
+      PC Computer - Terraria - Slimes_343: -1643345353
+      PC Computer - Terraria - Slimes_344: -504014073
+      PC Computer - Terraria - Slimes_345: -1029197781
+      PC Computer - Terraria - Slimes_346: 125121510
+      PC Computer - Terraria - Slimes_347: -690154310
+      PC Computer - Terraria - Slimes_348: -295100994
+      PC Computer - Terraria - Slimes_349: -68969951
+      PC Computer - Terraria - Slimes_35: -1711604328
+      PC Computer - Terraria - Slimes_350: -1619090801
+      PC Computer - Terraria - Slimes_351: -1986470838
+      PC Computer - Terraria - Slimes_352: 1127104219
+      PC Computer - Terraria - Slimes_353: -19985157
+      PC Computer - Terraria - Slimes_354: -1255012842
+      PC Computer - Terraria - Slimes_355: -1719717136
+      PC Computer - Terraria - Slimes_356: 1498575734
+      PC Computer - Terraria - Slimes_357: -278518529
+      PC Computer - Terraria - Slimes_358: 528042151
+      PC Computer - Terraria - Slimes_359: -543117271
+      PC Computer - Terraria - Slimes_36: 527782407
+      PC Computer - Terraria - Slimes_360: 1337941681
+      PC Computer - Terraria - Slimes_361: -1312527604
+      PC Computer - Terraria - Slimes_362: -92051883
+      PC Computer - Terraria - Slimes_363: -1393372395
+      PC Computer - Terraria - Slimes_364: 88748537
+      PC Computer - Terraria - Slimes_365: -39734901
+      PC Computer - Terraria - Slimes_366: -1767442456
+      PC Computer - Terraria - Slimes_367: 804122285
+      PC Computer - Terraria - Slimes_368: -2037972072
+      PC Computer - Terraria - Slimes_369: 1891356526
+      PC Computer - Terraria - Slimes_37: -96944381
+      PC Computer - Terraria - Slimes_370: -712235738
+      PC Computer - Terraria - Slimes_371: -179927350
+      PC Computer - Terraria - Slimes_372: 1716269885
+      PC Computer - Terraria - Slimes_38: 2019118139
+      PC Computer - Terraria - Slimes_39: 518584157
+      PC Computer - Terraria - Slimes_4: -336305510
+      PC Computer - Terraria - Slimes_40: 95329589
+      PC Computer - Terraria - Slimes_41: 1939951412
+      PC Computer - Terraria - Slimes_42: 15593769
+      PC Computer - Terraria - Slimes_43: -392867269
+      PC Computer - Terraria - Slimes_44: -1674293591
+      PC Computer - Terraria - Slimes_45: -1781690410
+      PC Computer - Terraria - Slimes_46: -2025961425
+      PC Computer - Terraria - Slimes_47: 1261023074
+      PC Computer - Terraria - Slimes_48: 1030442716
+      PC Computer - Terraria - Slimes_49: -201526847
+      PC Computer - Terraria - Slimes_5: 687136758
+      PC Computer - Terraria - Slimes_50: -1127352583
+      PC Computer - Terraria - Slimes_51: 865272056
+      PC Computer - Terraria - Slimes_52: 166363539
+      PC Computer - Terraria - Slimes_53: -1805311786
+      PC Computer - Terraria - Slimes_54: 283528002
+      PC Computer - Terraria - Slimes_55: -1403865711
+      PC Computer - Terraria - Slimes_56: 1838481296
+      PC Computer - Terraria - Slimes_57: -1513146729
+      PC Computer - Terraria - Slimes_58: -38736504
+      PC Computer - Terraria - Slimes_59: 192573067
+      PC Computer - Terraria - Slimes_6: 2109121010
+      PC Computer - Terraria - Slimes_60: -282182455
+      PC Computer - Terraria - Slimes_61: -852504677
+      PC Computer - Terraria - Slimes_62: 1943146127
+      PC Computer - Terraria - Slimes_63: 1542735693
+      PC Computer - Terraria - Slimes_64: 1201455024
+      PC Computer - Terraria - Slimes_65: -803102342
+      PC Computer - Terraria - Slimes_66: 1667618742
+      PC Computer - Terraria - Slimes_67: 1640789356
+      PC Computer - Terraria - Slimes_68: 1878332035
+      PC Computer - Terraria - Slimes_69: -64458035
+      PC Computer - Terraria - Slimes_7: -455110972
+      PC Computer - Terraria - Slimes_70: 1812462434
+      PC Computer - Terraria - Slimes_71: 654655327
+      PC Computer - Terraria - Slimes_72: -1103746470
+      PC Computer - Terraria - Slimes_73: -1053193739
+      PC Computer - Terraria - Slimes_74: -108072920
+      PC Computer - Terraria - Slimes_75: 1741260102
+      PC Computer - Terraria - Slimes_76: 1155396706
+      PC Computer - Terraria - Slimes_77: 1612421625
+      PC Computer - Terraria - Slimes_78: -727010652
+      PC Computer - Terraria - Slimes_79: 1273428726
+      PC Computer - Terraria - Slimes_8: -794309346
+      PC Computer - Terraria - Slimes_80: -846508082
+      PC Computer - Terraria - Slimes_81: 196177254
+      PC Computer - Terraria - Slimes_82: 25661079
+      PC Computer - Terraria - Slimes_83: 1632856469
+      PC Computer - Terraria - Slimes_84: 1529444978
+      PC Computer - Terraria - Slimes_85: 932769507
+      PC Computer - Terraria - Slimes_86: 1569112807
+      PC Computer - Terraria - Slimes_87: -1808683012
+      PC Computer - Terraria - Slimes_88: 794994118
+      PC Computer - Terraria - Slimes_89: -1663898231
+      PC Computer - Terraria - Slimes_9: 1464882792
+      PC Computer - Terraria - Slimes_90: -1776503307
+      PC Computer - Terraria - Slimes_91: -166552278
+      PC Computer - Terraria - Slimes_92: -1999439119
+      PC Computer - Terraria - Slimes_93: 1623674860
+      PC Computer - Terraria - Slimes_94: 1929235181
+      PC Computer - Terraria - Slimes_95: 1081164391
+      PC Computer - Terraria - Slimes_96: -2036581798
+      PC Computer - Terraria - Slimes_97: 94035546
+      PC Computer - Terraria - Slimes_98: -1927430815
+      PC Computer - Terraria - Slimes_99: 1145410070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
