@@ -26,7 +26,7 @@ public class Slime : MonoBehaviour
             1f,
             1f,
             1);
-        GetComponent<SpriteRenderer>().color = Color.
+        GetComponent<SpriteRenderer>().color = Color.green;
     }
 
     IEnumerator Start()
