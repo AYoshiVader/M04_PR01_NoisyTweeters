@@ -15,18 +15,47 @@ public class Slime : MonoBehaviour
 
     void Awake()
     {
-        int full = Random.Range(0, 3);
-        int part = Random.Range(0, 3);
-        while (part == full)
+        float red = Random.Range(0f, 1f);
+        float green = Random.Range(0f, 1f);
+        float blue = Random.Range(0f, 1f);
+        if (red > green && red >= blue)
         {
-            part = Random.Range(0, 3);
+            red = 1f;
+            if (green > blue)
+            {
+                blue = 0f;
+            }
+            else
+            {
+                green = 0f;
+            }
         }
-        Color color = new Color(
-            1f,
-            1f,
-            1f,
-            1);
-        GetComponent<SpriteRenderer>().color = Color.green;
+        else if (green > blue)
+        {
+            green = 1f;
+            if (blue > red)
+            {
+                red = 0f;
+            }
+            else
+            {
+                blue = 0f;
+            }
+        } 
+        else
+        {
+            blue = 1f;
+            if (red > green)
+            {
+                green = 0f;
+            }
+            else
+            {
+                red = 0f;
+            }
+        }
+        Color color = new Color(red, green, blue);
+        GetComponent<SpriteRenderer>().color = color;
     }
 
     IEnumerator Start()
