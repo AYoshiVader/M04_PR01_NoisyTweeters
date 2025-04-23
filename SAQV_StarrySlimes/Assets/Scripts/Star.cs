@@ -47,6 +47,7 @@ public class Star : MonoBehaviour
 
         _spriteRenderer.color = Color.white;
         IsDragging = false;
+        _rigidbody2D.freezeRotation = false;
     }
 
     void OnMouseDrag()
@@ -82,5 +83,7 @@ public class Star : MonoBehaviour
         _rigidbody2D.position = _startPosition;
         _rigidbody2D.isKinematic = true;
         _rigidbody2D.velocity = Vector2.zero;
+        _rigidbody2D.rotation = 0f;
+        _rigidbody2D.freezeRotation = true;
     }
 }
