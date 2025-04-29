@@ -8,17 +8,17 @@ public class LevelController : MonoBehaviour
 {
     [SerializeField] string _nextLevelName;
 
-    Monster[] _monsters;
+    Slime[] _slimes;
 
     void OnEnable()
     {
-        _monsters = FindObjectsOfType<Monster>();
+        _slimes = FindObjectsOfType<Slime>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (MonstersAreAllDead())
+        if (SlimesAreAllDead())
             GoToNextLevel();
     }
 
@@ -28,11 +28,11 @@ public class LevelController : MonoBehaviour
         SceneManager.LoadScene(_nextLevelName);
     }
 
-    bool MonstersAreAllDead()
+    bool SlimesAreAllDead()
     {
-        foreach (var monster in _monsters)
+        foreach (var slime in _slimes)
         {
-            if(monster.gameObject.activeSelf)
+            if(slime.gameObject.activeSelf)
                 return false;
         }
         return true;

@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Star : MonoBehaviour
@@ -11,6 +12,8 @@ public class Star : MonoBehaviour
     Vector2 _startPosition;
     Rigidbody2D _rigidbody2D;
     SpriteRenderer _spriteRenderer;
+    Color _color;
+    bool _clickable = true;
 
     public bool IsDragging { get; private set; }
 
@@ -18,6 +21,7 @@ public class Star : MonoBehaviour
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _spriteRenderer = GetComponent<SpriteRenderer>();
+        _color = _spriteRenderer.color;
     }
 
     // Start is called before the first frame update
@@ -35,6 +39,7 @@ public class Star : MonoBehaviour
 
     void OnMouseUp()
     {
+        _rigidbody2D.freezeRotation = false;
         Vector2 currentPosition = _rigidbody2D.position;
         Vector2 direction = _startPosition - currentPosition;
         direction.Normalize();
@@ -43,11 +48,10 @@ public class Star : MonoBehaviour
         _rigidbody2D.AddForce(direction * _launchForce);
 
         var audioSource = GetComponent<AudioSource>();
-        audioSource.Play();
+        //audioSource.Play();
 
-        _spriteRenderer.color = Color.white;
+        _spriteRenderer.color = _color;
         IsDragging = false;
-        _rigidbody2D.freezeRotation = false;
     }
 
     void OnMouseDrag()
@@ -85,5 +89,6 @@ public class Star : MonoBehaviour
         _rigidbody2D.velocity = Vector2.zero;
         _rigidbody2D.rotation = 0f;
         _rigidbody2D.freezeRotation = true;
+        _clickable = true;
     }
 }
